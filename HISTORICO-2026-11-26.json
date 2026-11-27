@@ -1,0 +1,24 @@
+{
+  "repository": "JustJao1/linkpilot",
+  "snapshot": "a4aad7be70e37526e6e38fca84b759c3d4919213",
+  "scope": "Histórico alcançável a partir do commit preservado, tal como retornado pela API GitHub; datas e autorias são metadados Git, não certificação jurídica.",
+  "complete": true,
+  "entries": [
+    {
+      "commit": "a4aad7be70e37526e6e38fca84b759c3d4919213",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-27T01:06:41Z",
+      "committer_date": "2026-11-27T01:06:41Z",
+      "subject": "Document project ownership, attribution and third-party rights",
+      "signature_verified": false
+    },
+    {
+      "commit": "c717dfc2a1f52fea51b842a0cef1d26e4695aa24",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T18:43:31Z",
+      "committer_date": "2026-11-26T18:43:31Z",
+      "subject": "Initialize LinkPilot project documentation",
+      "signature_verified": false
+    }
+  ]
+}
