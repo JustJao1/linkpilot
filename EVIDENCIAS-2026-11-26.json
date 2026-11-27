@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "data_local": "2026-11-26",
+  "responsavel": "João Victor da Silva (JustJao1)",
+  "repositorio": "JustJao1/linkpilot",
+  "commit": "a4aad7be70e37526e6e38fca84b759c3d4919213",
+  "git_tree": "d426e307dccf32c572c0be0c63013a23da54d6c2",
+  "escopo": "Inventário de todos os arquivos rastreados no commit; SHA-256 do JSON compacto UTF-8 de inventario_git, não do código completo. Hash de conteúdo da amostra calculado sobre bytes originais. Exclui dados privados, arquivos não rastreados, conteúdo externo e objetos LFS não materializados.",
+  "sha256_inventario_git": "94562c0ec68b8c6a8f83223724e43c86900031a83f110a138e965c0e870da29a",
+  "hashes_conteudo": [
+    {
+      "path": "README.md",
+      "bytes": 5168,
+      "sha256": "41ea79761e6e6c9b7620b7474f3c1a54c5f76e5cfee539042bc6d530cbef96af"
+    }
+  ],
+  "auditoria_preliminar_licencas": "Somente documentação e OWNERSHIP.md no repositório. README descreve Go, HTML/CSS/JS e APIs de Mercado Livre, Amazon, Shopee, Awin e Gemini; licenças do código, dependências e executável não podem ser auditadas sem fontes/binário. Hash anterior do executável informado no README: ff5554632d4a3664565fa20ec61224e45a129c0b24cf7dd9394705afdb773ab7 (não recalculado). Não equivale a evidência do código-fonte.",
+  "inventario_git": [
+    [
+      "OWNERSHIP.md",
+      "100644",
+      "blob",
+      "ab60d54664aaf86376ad38cd4b092e2a4a370e1f",
+      719
+    ],
+    [
+      "README.md",
+      "100644",
+      "blob",
+      "d8d12702dc5a5a7930fdc1de68db8c51eb4a8ea5",
+      5168
+    ]
+  ]
+}
