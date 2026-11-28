@@ -51,3 +51,16 @@ A Windows x64 PE executable was produced (v0.7.1). This attribution-only update 
 **Stack:** Go, HTML, CSS, JavaScript, REST APIs, OAuth 2.0, Gemini, Windows cross-compilation.
 
 [Back to the developer portfolio](https://jv-software-portfolio.vercel.app/)
+
+
+## Engineering evidence / Evidências de engenharia
+
+[Architecture, decisions and bilingual walkthrough / Arquitetura, decisões e demonstração bilíngue](docs/engineering-quality.md).
+
+Measured snapshot / Registro de 28/11/2026:
+
+PT: Código-fonte original indisponível para nova execução de testes.
+
+EN: Original source unavailable for new test runs.
+
+[Portfolio evidence / Evidências no portfólio](https://justjao1.vercel.app/#engineering).
